@@ -2,7 +2,7 @@
 
 This repo contains a [tutorial notebook](tutorial_tone_ico_data_access.ipynb) and the definition of a Python virtual environment (.python-verions, pyproject.toml, uv.lock) for accessing data repos from the Troll Observing Network's Integrated Cloud Observatory.
 
-## STEP 1) Create a reproducible Python virtual environment on your local computer
+## STEP 1) Create a reproducible Python virtual environment
 
 ### Install [the uv package manager](https://docs.astral.sh/uv/getting-started/installation/)
 
@@ -50,8 +50,4 @@ If you're using VSCode, open the Command Pallette (e.g., command-shift-P on a Ma
 
 ## STEP 2) Start the tutorial
 
-- Open the [tutorial notebook](tutorial_tone_ico_data_access.ipynb) in VSCode
-
-or
-
-- Type ```uv run tutorial_tone_ico_data_access.ipynb```
+- Open the [tutorial notebook](tutorial_tone_ico_data_access.ipynb) in either VSCode or JupyterLab to access the data repos!
